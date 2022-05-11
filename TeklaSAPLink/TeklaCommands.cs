@@ -39,6 +39,7 @@ namespace TeklaSAPLink
                     MyBeams.LastOrDefault().XYZ2[0] = ab.Positions.LastOrDefault().Node.Position.X;
                     MyBeams.LastOrDefault().XYZ2[1] = ab.Positions.LastOrDefault().Node.Position.Y;
                     MyBeams.LastOrDefault().XYZ2[2] = ab.Positions.LastOrDefault().Node.Position.Z;
+                    int a = 1;
                     if (MyBeams.LastOrDefault().XYZ2[0] == MyBeams.LastOrDefault().XYZ1[0] &
                         MyBeams.LastOrDefault().XYZ2[1] == MyBeams.LastOrDefault().XYZ1[1] &
                         MyBeams.LastOrDefault().XYZ2[2] > MyBeams.LastOrDefault().XYZ1[2])//условие по определению колонны
