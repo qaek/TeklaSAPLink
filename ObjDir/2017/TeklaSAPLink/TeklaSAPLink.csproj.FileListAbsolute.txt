@@ -1,0 +1,17 @@
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\TeklaSAPLink.csprojAssemblyReference.cache
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\MainWindow.g.cs
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\App.g.cs
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\TeklaSAPLink_MarkupCompile.cache
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\TeklaSAPLink_MarkupCompile.lref
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\TeklaSAPLink\bin\Debug\TeklaSAPLink.exe.config
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\TeklaSAPLink\bin\Debug\TeklaSAPLink.exe
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\TeklaSAPLink\bin\Debug\TeklaSAPLink.pdb
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\TeklaSAPLink\bin\Debug\SAP2000v1.dll
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\MainWindow.baml
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\TeklaSAPLink.g.resources
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\TeklaSAPLink.Properties.Resources.resources
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\TeklaSAPLink.csproj.GenerateResource.cache
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\TeklaSAPLink.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\TeklaSAPLink.csproj.CopyComplete
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\TeklaSAPLink.exe
+C:\Users\Professional\Dropbox\03_Программирование\РАБОТА\Расчетные комплексы\TeklaSAPLink\TeklaSAPLink\ObjDir\2017\TeklaSAPLink\TeklaSAPLink.pdb
